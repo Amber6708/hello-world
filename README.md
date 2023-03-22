@@ -5,4 +5,5 @@ My name is ***Amber Campbell***. I am from Denver, CO. I live with my husband, t
 Here are a things about me:
 1. I love reading books
 2. My favorite colors are pink and teal
-3. I am a Colorado native and don't know how to ski
+3. I am a Colorado native
+4. I don't know how to ski
